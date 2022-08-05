@@ -52,3 +52,22 @@ h1:hover {
 footer:hover {
   transform: scale(0.9);
 }
+
+button {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 20px;
+  font-family: Arial;
+  color: #393E46;
+  font-size: 15px;
+  background: #4ECCA3;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  left: 590px;
+  top: 15px;
+}
+
+button:hover {
+  background-color: azure;
+}
